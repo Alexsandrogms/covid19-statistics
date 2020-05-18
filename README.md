@@ -1,4 +1,4 @@
-# COVID-19 statics
+# COVID-19 statistics
 
 ## Gif
 
