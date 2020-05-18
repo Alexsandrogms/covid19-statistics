@@ -1,8 +1,15 @@
 # COVID-19 statistics
 
-## Gif
+<div align = "center">
+  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9a72101-452b-42bf-82df-aa1332d2a511/deploy-status)](https://app.netlify.com/sites/covid19statisticsz/deploys)
 
-Covid-19 statistics is an application that shows up-to-date data on the number of coronavirus cases in each country. Access the app and see how it works[covid19-statics](https://covid19statisticsz.netlify.app/).
+</div>
+
+Covid-19 statistics is an application that shows up-to-date data on the number of coronavirus cases in each country. Access the app and see how it works [covid19-statistics](https://covid19statisticsz.netlify.app/).
+
+
+## Gif
 
 ![img-illustration](/src/assets/readme.gif?style=centerme)
 
