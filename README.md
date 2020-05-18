@@ -3,6 +3,10 @@
 <div align = "center">
   
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e9a72101-452b-42bf-82df-aa1332d2a511/deploy-status)](https://app.netlify.com/sites/covid19statisticsz/deploys)
+![Bower](https://img.shields.io/bower/l/bootstrap)
+<a href="https://www.linkedin.com/in/alexsandrogomes?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzYMpi8BiTcO1tlEsaI1lFw%3D%3D">
+![Linkedin](https://img.shields.io/badge/linkedin-Alexsandro-blue)
+</a>
 
 </div>
 
